@@ -49,3 +49,7 @@ Deploy:
 - Write tests for microservice;
 - Write endpoint documentations in README.md;
 - Include cors middleware in middy handler.
+
+## Contribute:
+
+This is my first microservice using AWS Lambda :wink:. Please feel free to contribute, forking this repository, and sending your pull request
