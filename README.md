@@ -40,7 +40,7 @@ Deploy:
 - There are many ways to create protected serverless functions. To see more about serverless auth, read [this](https://github.com/DavidWells/serverless-auth-strategies);
 - Mongoose recommendations for Lambda functions: https://mongoosejs.com/docs/lambda.html;
 - MongoDB guidelines for Serverless: https://www.mongodb.com/blog/post/serverless-development-with-nodejs-aws-lambda-mongodb-atlas;
-- I took as guide the [walkthrough](https://www.freecodecamp.org/news/a-crash-course-on-securing-serverless-apis-with-json-web-tokens-ff657ab2f5a5/) to understand and apply authentication in Node.js microservices;
+- I took as guide this [walkthrough](https://www.freecodecamp.org/news/a-crash-course-on-securing-serverless-apis-with-json-web-tokens-ff657ab2f5a5/) to understand and apply authentication in Node.js microservices;
 
 ## Todo:
 
